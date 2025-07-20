@@ -1,0 +1,131 @@
+{
+    "catalogue": [
+        {
+            "videos": [
+                {
+                    "catalogueNumber": "MEA100",
+                    "title": "An Idiot's Guide to University",
+                    "link": "https://www.youtube.com/watch?v=_bteVaTanO4"
+                },
+                {
+                    "catalogueNumber": "MEA100(P)",
+                    "title": "An Idiot's Guide to University (Private Version)",
+                    "link": "https://www.youtube.com/watch?v=MN9j6m5nbyA"
+                },
+                {
+                    "catalogueNumber": "MEA101A",
+                    "title": "Formula 1 but we're terrible - F1 2025 Season (Part 1) - Medium Effort Media",
+                    "link": "https://youtu.be/kYC_fAwenMM"
+                },
+                {
+                    "catalogueNumber": "MEA101B",
+                    "title": "Formula 1 but we're awful - F1 2025 Season (Part 2) - Medium Effort Media",
+                    "link": "https://youtu.be/qwK3ucLoMfo"
+                },
+                {
+                    "catalogueNumber": "MEA102",
+                    "title": "An Idiot's Guide to Majorca",
+                    "link": "https://www.youtube.com/watch?v=xDqtheHkhAc"
+                }
+            ],
+            "extras": [
+                {
+                    "catalogueNumber": "MEAX100P",
+                    "title": "An Idiot's Guide to University: Public and Private Comparison"
+                },
+                {
+                    "catalogueNumber": "MEAX101",
+                    "title": "F1 Manhunt but the video quality is very bad and I ruin everything",
+                    "link": "https://youtu.be/ZpOxNAQ4Y80"
+                },
+                {
+                    "catalogueNumber": "MEAX102",
+                    "title": "An Idiot's Guide to University: Back In Manchester 06/01/25"
+                }
+            ],
+            "legacy": [
+                {
+                    "catalogueNumber": "MEAL001",
+                    "title": "@JT_2005 plays Alternate Watch while Rob & Harry Commentate"
+                },
+                {
+                    "catalogueNumber": "MEAL002",
+                    "title": "We voted on the best Jackbox speeches... and here they are! - Medium Effort Media",
+                    "link": "https://www.youtube.com/watch?v=w6gP2mh2bd0"
+                },
+                {
+                    "catalogueNumber":"MEAL003",
+                    "title": "@JT_2005's Morally Degenerate Would You Rather Questions"
+                },
+                {
+                    "catalogueNumber":"MEAL004",
+                    "title": "@pobhasnofriends slowly loses his mind in @JT_2005's FNAF Smash or Pass - Medium Effort Media"
+                },
+                {
+                    "catalogueNumber":"MEAL005",
+                    "title": "@pobhasnofriends and @harryw156_ talk about noodles for FAR too long - Medium Effort Media"
+                },
+                {
+                    "catalogueNumber":"MEAL006",
+                    "title": "The Original Ending of FNAF Smash or Pass - Medium Effort Media"
+                },
+                {
+                    "catalogueNumber":"MEAL007",
+                    "title": "@pobhasnofriends gets lost in the Nether for 5 minutes - Medium Effort Media"
+                },
+                {
+                    "catalogueNumber":"MEAL008",
+                    "title": "Unaired test pilot: The Medium Effort Live Stream"
+                },
+                {
+                    "catalogueNumber":"MEAL009",
+                    "title": "Fortnite OG Map & Creative Funny Moments - Medium Effort Media",
+                    "link": "https://youtu.be/QuNFbR58w_I"
+                },
+                {
+                    "catalogueNumber":"MEAL010",
+                    "title": "Possibly the HARDEST Fortnite Creative Map - Medium Effort Media",
+                    "link": "https://youtu.be/fldGqSJ_q10"
+                },
+                {
+                    "catalogueNumber":"MEAL011",
+                    "title": "Beating Alternate Watch (finally)",
+                    "link": "https://www.youtube.com/watch?v=ldbzFhryViE"
+                },
+                {
+                    "catalogueNumber": "MEAL012",
+                    "title": "Libertea, democracy and war crimes",
+                    "link": "https://www.youtube.com/watch?v=nUJlihbbGnc"
+                },
+                {
+                    "catalogueNumber": "MEAL013",
+                    "title": "5 minutes of (mostly) @ragteshtwitch getting bullied by Harry // Helldivers 2",
+                    "link": "https://youtu.be/rbSeU34EFwk"
+                },
+                {
+                    "catalogueNumber": "MEAL014",
+                    "title": "Committing Vehicular Crimes in F1 - F1 Stream Highlights",
+                    "link": "https://www.youtube.com/watch?v=U865O1kA0eU"
+                },
+                {
+                    "catalogueNumber": "MEAL015",
+                    "title": "Hunted - Medium Effort Media #shorts"
+                },
+                {
+                    "catalogueNumber": "MEAL016",
+                    "title": "Hunted (part 2) - Medium Effort Media"
+                },
+                {
+                    "catalogueNumber": "MEAL017",
+                    "title": "Crazy? I was crazy once. - Medium Effort Media",
+                    "link": "https://youtube.com/shorts/Rpe6HH9MfEo"
+                },
+                {
+                    "catalogueNumber": "MEAL018",
+                    "title": "Good job, Rob. I'm proud of you - Medium Effort Media #fortnite",
+                    "link": "https://youtube.com/shorts/ceAho1Lwnzo"
+                }
+            ]
+        }
+    ]
+}
