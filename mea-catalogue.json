@@ -44,7 +44,10 @@
                 }
             ],
             "clips": [
-                
+                {
+                    "catalogueNumber": "TEST",
+                    "title": "TEST"
+                }
             ],
             "legacy": [
                 {
