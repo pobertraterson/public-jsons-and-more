@@ -1,6 +1,6 @@
 {
-  "id": 1,
-  "title": "Expect issues to arise",
-  "mainMsg": "Due to Cloudflare's outage, we have been experiencing issues including loss of service. While this website is not important to anybody except me, please do not expect this website to stay online. I would like you to blame cloudflare. :D",
-  "expiry": "2025-11-19T00:00:00.000Z"
+  "id": 2,
+  "title": "New alert feature!",
+  "mainMsg": "Hello! This is an alert box. I decided to make one because of Cloudflare's outage today (18/11/2025), let's hope it continues working.",
+  "expiry": "2025-11-18T17:00:00.000Z"
 }
