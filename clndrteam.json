@@ -7,12 +7,32 @@
       "github": "https://github.com/pobertraterson"
     },
     {
-      "name": "Callum",
+      "name": "Callum Isherwood",
+      "description": "Developer",
+      "github": "https://github.com/CallumIsh"
+    },
+    {
+      "name": "Tom Judge",
       "description": "Developer"
     },
     {
-      "name": "Tom",
+      "name": "Asim Iqbal",
       "description": "Developer"
+    },
+    {
+      "name": "Zain Rehman",
+      "description": "Researcher",
+      "github": "https://github.com/206zrehman-rgb"
+    },
+    {
+      "name": "Kuba Lupinski",
+      "description": "Researcher",
+      "github": "https://github.com/Kiwa3434"
+    },
+    {
+      "name": "Omith Chondro Deb",
+      "description": "Researcher",
+      "github": "https://github.com/omakoZplus"
     }
   ]
 }
