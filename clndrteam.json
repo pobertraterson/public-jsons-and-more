@@ -1,0 +1,18 @@
+{
+  "team": [
+    {
+      "name": "Robert Paterson",
+      "description": "Developer",
+      "website": "https://robertpaterson.net",
+      "github": "https://github.com/pobertraterson"
+    },
+    {
+      "name": "Callum",
+      "description": "Developer"
+    },
+    {
+      "name": "Tom",
+      "description": Developer"
+    }
+  ]
+}
