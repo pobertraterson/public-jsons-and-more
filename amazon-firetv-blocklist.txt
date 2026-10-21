@@ -1,3 +1,4 @@
 0.0.0.0 firetvcaptiveportal.com
 0.0.0.0 fireoscaptiveportal.com
 0.0.0.0 trace-server.prod-clustered.bugs.firebat.prime-video.amazon.dev
+0.0.0.0 cdn.ss.anno.channel4.com
